@@ -1,0 +1,1 @@
+This is a first attempt at using Git to handle CVS on BU's WP install.
